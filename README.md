@@ -1,12 +1,12 @@
 # String-Manipulation
-Simple GUI Application to demonstrate String Manipulation
-
-Demonstrating some simple concepts:
--Building a Java.Swing GUI manually using code
--Using a north-to-south layout using nested panels with GridBagLayout
--Logical operation to take a string input, reverse it and display on screen
--Logical operation to take a string input and convert it to Pig Latin [1]
--Logical operation to take a string input and count the occurence of each vowel
+Simple GUI Application to demonstrate String Manipulation\
+\
+Demonstrating some simple concepts:\
+-Building a Java.Swing GUI manually using code\
+-Using a north-to-south layout using nested panels with GridBagLayout\
+-Logical operation to take a string input, reverse it and display on screen\
+-Logical operation to take a string input and convert it to Pig Latin [1]\
+-Logical operation to take a string input and count the occurence of each vowel\
 -Ability to read in a .txt file (using BufferedStreamReader) and display it on screen (Dialog file Selector inc.)
 -Ability to edit the text in this file and save it to a new file or overwrite (using BufferedStreamWriter)
 -Possibility for syntax to be highlighted [2]
